@@ -71,7 +71,7 @@ streamlit run app.py
 
 ## Live Demo
 
-🔗 https://employeepredictionshahul.streamlit.app/
+ [Click Here 👇🏻](https://employeepredictionshahul.streamlit.app/)
 
 Try the Employee Salary Prediction application online.
 
@@ -100,7 +100,7 @@ Shahul Hameed
 Aspiring Data Scientist passionate about Machine Learning, Data Analytics, and building data-driven solutions.
 
 Gmail: shahulhameedali8@gmail.com
-GitHub: https://github.com/kattziee
-LinkedIn: www.linkedin.com/in/shahulhameedalim
+GitHub: [Kattziee](https://github.com/kattziee)
+LinkedIn: [Shahul Hameed Ali M](www.linkedin.com/in/shahulhameedalim)
 
 ⭐ If you found this project useful, consider giving it a star on GitHub.
