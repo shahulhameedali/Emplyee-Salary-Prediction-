@@ -101,6 +101,6 @@ Aspiring Data Scientist passionate about Machine Learning, Data Analytics, and b
 
 Gmail: shahulhameedali8@gmail.com
 GitHub: https://github.com/kattziee
-LinkedIn: https://www.linkedin.com/in/shahul-hameed-ali-a7a5b7267?utm_source=share_via&utm_content=profile&utm_medium=member_android
+LinkedIn: www.linkedin.com/in/shahulhameedalim
 
 ⭐ If you found this project useful, consider giving it a star on GitHub.
