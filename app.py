@@ -60,5 +60,5 @@ if st.button("Predict Salary"):
     prediction = model.predict(data)
 
     st.success(
-        f"Predicted Salary: ₹ {prediction[0]:,.2f}"
+        f"Predicted Salary: $ {prediction[0]:,.2f}"
     )
