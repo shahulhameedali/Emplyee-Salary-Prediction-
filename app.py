@@ -34,7 +34,7 @@ education = st.selectbox(
     ]
 )
 
-job = st.text_input(
+job = st.selectbox(
     "Job Title"
 )
 
